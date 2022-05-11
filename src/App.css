@@ -1,0 +1,59 @@
+.App {
+  text-align: center;
+  background-image: url("./images/Background.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 150vh;
+  box-sizing: border-box;
+  position: relative;
+  line-height: 20px;
+}
+
+/* general css */
+.margin-topBottom {
+  margin: 7px 0;
+}
+.textAlignLeft {
+  text-align: left;
+}
+.padding-topBottom {
+  padding: 19px 0 18px 0;
+}
+.full-width {
+  width: 100%;
+  text-align: center;
+}
+
+.button-hover:hover {
+  opacity: 0.5;
+}
+/* css container form login */
+
+.form-login {
+  background-color: #fff;
+  width: 73.8vh;
+  height: 120vh;
+  border-radius: 10px;
+  position: absolute;
+  margin: 116px 0;
+  left: 63px;
+  padding: 53px 32px;
+}
+
+.container .phone, .container .password {
+  position: relative;
+}
+
+.container, .button {
+  display: flex;
+  flex-direction: column;
+}
+
+.form-login .logo {
+  margin-bottom: 74px;
+}
+
+.forgot-password {
+  margin: 13px 0px 48px 0;
+}
