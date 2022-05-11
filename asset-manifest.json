@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/FormValidate/static/css/main.005168bb.css",
+    "main.js": "/FormValidate/static/js/main.a670c4ec.js",
+    "static/js/787.0bca8be2.chunk.js": "/FormValidate/static/js/787.0bca8be2.chunk.js",
+    "static/media/Background.png": "/FormValidate/static/media/Background.637e2dc48a7e7557af9a.png",
+    "static/media/email.png": "/FormValidate/static/media/email.1b811c0fffe8223138dc.png",
+    "static/media/Logo.png": "/FormValidate/static/media/Logo.7aec7a06997c2dae1d12.png",
+    "index.html": "/FormValidate/index.html",
+    "main.005168bb.css.map": "/FormValidate/static/css/main.005168bb.css.map",
+    "main.a670c4ec.js.map": "/FormValidate/static/js/main.a670c4ec.js.map",
+    "787.0bca8be2.chunk.js.map": "/FormValidate/static/js/787.0bca8be2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.005168bb.css",
+    "static/js/main.a670c4ec.js"
+  ]
+}
